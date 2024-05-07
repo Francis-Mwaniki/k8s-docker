@@ -1,4 +1,4 @@
-
+follow this guide - https://medium.com/@onai.rotich/deploying-and-managing-application-with-kubernetes-16b37cd2c1e6
 
 #### K8s manifest files 
 * mongo-config.yaml
